@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rodrigovmoreira
+- 👋 Olá, sou o @rodrigovmoreira.
 Sempre aprendendo, buscando em detalhes para ir além.
 
 <!---
