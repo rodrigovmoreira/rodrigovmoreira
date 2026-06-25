@@ -2,7 +2,7 @@
 
 **Desenvolvedor Full-stack | Especialista ERP Protheus | Entusiasta de Microserviços**
 
-Sou um desenvolvedor movido pela curiosidade e pelo desafio de transformar problemas complexos em sistemas funcionais e elegantes. Com background acadêmico em Administração e formação técnica autodidata, uno a visão de processos de negócio com a execução técnica em tecnologias modernas.
+Sou um desenvolvedor movido pela curiosidade e pelo desafio de transformar problemas complexos em sistemas funcionais e elegantes. Com background acadêmico em Administração e formação técnica que fui aprendendo como um fuçador profissional, uno a visão de processos de negócio com a execução técnica em tecnologias modernas.
 
 ---
 
